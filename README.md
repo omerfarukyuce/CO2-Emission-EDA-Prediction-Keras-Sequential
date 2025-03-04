@@ -1,5 +1,4 @@
-# CO2 Emission EDA&Prediction (Keras Sequential) Model🚗💨
-
+# 🚗💨 CO2 Emission EDA&Prediction (Keras Sequential) Model
 This project includes a deep learning model that analyzes and predicts CO2 emissions of vehicles in Canada.
 
 ## 📊 About the Project
