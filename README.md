@@ -5,6 +5,11 @@ This project includes a deep learning model that analyzes and predicts CO2 emiss
 
 In this project, a deep learning model was developed to predict CO2 emissions using various vehicle characteristics (engine size, fuel consumption, number of cylinders, etc.). The dataset contains vehicle specifications and emission values from Canada.
 
+## 📊 About the Dataset
+
+This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. The dataset has been taken from Canada Government official open data website. This is a compiled version. This contains data over a period of 7 years.
+There are total 7385 rows and 12 columns. There are few abbreviations that has been used to describe the features. I am listing them out here. The same can be found in the Data Description sheet.
+
 ## 🔍 Features
 
 - Comprehensive data analysis and visualization
