@@ -22,3 +22,40 @@ In this project, a deep learning model was developed to predict CO2 emissions us
 - Seaborn
 - Scikit-learn
 - TensorFlow/Keras
+
+## 📊 Model Performance
+
+- Test MAE: [MAE value]
+- Test MSE: [MSE value]
+- R² Score: [R² value]
+
+## 📝 Dataset
+
+The dataset is obtained from Kaggle and includes the following features of vehicles in Canada:
+- Engine size
+- Number of cylinders
+- Fuel consumption (city/highway)
+- CO2 emissions
+- Vehicle class
+- Transmission type
+- Fuel type
+
+## 📊 Sample Visualizations
+
+Visualizations made within the project:
+- Distribution graphs of categorical variables
+- Correlation matrix between numerical variables
+- Relationship between fuel consumption and CO2 emissions
+- Model performance graphs
+
+## 📜 License
+
+This project is licensed under the [MIT](LICENSE) License.
+
+## 🔍 Code And Kaggle Link
+Project: [co2-emission-eda-prediction-keras-sequential.ipynb](https://github.com/omerfarukyuce/CO2-Emission-EDA-Prediction-Keras-Sequential/blob/main/co2-emission-eda-prediction-keras-sequential.ipynb)
+
+Kaggle: [CO2 Emission EDA&Prediction (Keras Sequential)🚗💨](https://www.kaggle.com/code/merfarukyce/co2-emission-eda-prediction-keras-sequential)
+
+## 📊 Datasets
+Dataset: [Dataset](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles/data)
