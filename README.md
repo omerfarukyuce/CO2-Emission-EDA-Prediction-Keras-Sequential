@@ -32,13 +32,18 @@ In this project, a deep learning model was developed to predict CO2 emissions us
 ## 📝 Dataset
 
 The dataset is obtained from Kaggle and includes the following features of vehicles in Canada:
-- Engine size
-- Number of cylinders
-- Fuel consumption (city/highway)
-- CO2 emissions
-- Vehicle class
-- Transmission type
-- Fuel type
+- Make
+- Model
+- Vehicle Class
+- Engine Size(L)
+- Cylinders
+- Transmission
+- Fuel Type
+- Fuel Consumption City (L/100 km)
+- Fuel Consumption Hwy (L/100 km)
+- Fuel Consumption Comb (L/100 km)
+- Fuel Consumption Comb (mpg)
+- CO2 Emissions(g/km) 
 
 ## 📊 Sample Visualizations
 
