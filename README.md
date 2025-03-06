@@ -21,13 +21,13 @@ There are total 7385 rows and 12 columns. There are few abbreviations that has b
 
 ## 📈 Technologies Used
 
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- TensorFlow/Keras
+- 🐍 Python 3.x
+- 🐼 Pandas
+- https://icons8.com/icon/aR9CXyMagKIS/numpy NumPy
+- 📊 Matplotlib
+- 📈 Seaborn
+- 🤖 Scikit-learn
+- 🤖 TensorFlow/Keras
 
 ## 📊 Model Performance
 
