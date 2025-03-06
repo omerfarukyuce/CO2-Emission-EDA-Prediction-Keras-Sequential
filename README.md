@@ -23,7 +23,7 @@ There are total 7385 rows and 12 columns. There are few abbreviations that has b
 
 - 🐍 Python 3.x
 - 🐼 Pandas
-- <svg id="Matrix--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16"><desc>Matrix Streamline Icon: https://streamlinehq.com</desc><defs></defs><title>research--matrix</title><path d="m9 6.5 0 -4.5 -1 0 0 1 -1.5 0 0 1 1.5 0 0 2.5 -1.5 0 0 1 4 0 0 -1 -1.5 0z" fill="#000000" stroke-width="0.5"></path><path d="M8.25 10a1.75 1.75 0 1 1 -1.75 1.75 1.75 1.75 0 0 1 1.75 -1.75m0 -1a2.75 2.75 0 1 0 2.75 2.75 2.75 2.75 0 0 0 -2.75 -2.75Z" fill="#000000" stroke-width="0.5"></path><path d="m4 15 -3 0L1 1l3 0 0 1 -2 0 0 12 2 0 0 1z" fill="#000000" stroke-width="0.5"></path><path d="m15 15 -3 0 0 -1 2 0 0 -12 -2 0 0 -1 3 0 0 14z" fill="#000000" stroke-width="0.5"></path><path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path></svg> NumPy
+- 📊 NumPy
 - 📊 Matplotlib
 - 📈 Seaborn
 - 🤖 Scikit-learn
