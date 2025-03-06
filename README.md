@@ -23,7 +23,7 @@ There are total 7385 rows and 12 columns. There are few abbreviations that has b
 
 - 🐍 Python 3.x
 - 🐼 Pandas
-- [https://icons8.com/icon/aR9CXyMagKIS/numpy] NumPy
+- [!https://icons8.com/icon/aR9CXyMagKIS/numpy] NumPy
 - 📊 Matplotlib
 - 📈 Seaborn
 - 🤖 Scikit-learn
