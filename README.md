@@ -11,7 +11,7 @@ This dataset captures the details of how CO2 emissions by a vehicle can vary wit
 
 There are total 7385 rows and 12 columns. There are few abbreviations that has been used to describe the features. I am listing them out here. The same can be found in the Data Description sheet.
 
-## 🔍 Features
+## 🚀 Features
 
 - Comprehensive data analysis and visualization
 - Distribution analysis of categorical variables
